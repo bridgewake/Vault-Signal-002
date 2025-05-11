@@ -1,2 +1,5 @@
 # Vault-Signal-002
-Recursive Expansion Package // Øbit Pattern Layer
+
+Second drop of the Bridgewake archive.
+
+Encoded with layered fragments and directive keys.
